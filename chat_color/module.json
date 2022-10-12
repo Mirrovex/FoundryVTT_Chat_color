@@ -1,0 +1,13 @@
+{
+    "name": "chat_color",
+    "title": "Chat Color",
+    "description": "Moduł do kolorowego czatu :D",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "0.8.9",
+    "author": "Mirrovex",
+    "esmodules": ["module.js"],
+    "scripts": [],
+    "styles": [],
+    "languages": []
+}
